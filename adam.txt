@@ -1,16 +1,1 @@
-test
-heimin
-ssssss
-
-:wq
-<<<<<<< HEAD
-:wi
-
-
-hello1234
-=======
-:wq
-hello
->>>>>>> 8ec774564e94e996d3eecc5dba5bfd6ff60db18
-
-absabsasbsabsab6
+¾Æ´ã°ú ÀÌºê ¿ÏÀüÈ÷ ¼öÁ¤ ÀÌ·¯¸é ¸ŞÀÎ ºê·£Ä¡ Èò»ö ºÎºĞ¿¡ Ä¿¹Ô ¿Ã¶ó°¡°ÚÁö?
